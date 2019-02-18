@@ -1,2 +1,2 @@
-# http://jherfel.github.io
+# https://jherfel.github.io
 My personal website
